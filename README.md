@@ -92,7 +92,4 @@ Feel free to drop me a message here on GitHub or connect with me on [LinkedIn](h
     <a align="left" href="https://github.com/hussein-elmlah">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&layout=compact&hide=Astro,GLSL" alt="Top Langs">
     </a>
-    <a align="right" href="https://github.com/hussein-elmlah">
-      <img src="https://kodebaze-strapi.ams3.digitaloceanspaces.com/Developer_look_left_65325fa55c.svg" alt="Developer Image">
-    </a>
 </div>
