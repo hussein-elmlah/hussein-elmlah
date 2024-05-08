@@ -106,7 +106,16 @@ I thrive on exploring the vast realms of technology and finding innovative solut
 
 ### 💻 Tech Stack:
 
-As a MEARN full-stack developer, I specialize in creating dynamic and scalable web applications using MongoDB, Express, ReactJS, Angular, and NodeJS. My proficiency extends to both front-end and back-end development, ensuring intuitive user experiences and efficient server-side functionality.
+As a software engineer, I specialize in creating dynamic and scalable web applications using a variety of technologies. My proficiency extends to both front-end and back-end development, ensuring intuitive user experiences and efficient server-side functionality.
+
+I have experience with:
+- **Frontend Frameworks:** ReactJS, Angular, Vue.js
+- **Backend Frameworks:** Node.js (Express), Django, Ruby on Rails
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Other Tools & Technologies:** Docker, AWS, Laravel, Ruby, Apache, Tailwind CSS, Bootstrap, PHP, and more.
+
+My goal is to leverage these technologies to build innovative solutions and contribute to the success of software projects.
+
 
 ### 🔧 Skills:
 
