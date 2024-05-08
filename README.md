@@ -110,12 +110,12 @@ As a MEARN full-stack developer, I specialize in creating dynamic and scalable w
 
 ### 🔧 Skills:
 
-I bring a diverse set of skills to the table, including but not limited to:
+As a software engineer, I bring a diverse set of skills to the table, including but not limited to:
 
-- **MEARN Stack:** Expertise in developing with MongoDB, Express, ReactJS, Angular, and NodeJS.
-- **Application Programming Interfaces (API):** Crafting robust and efficient APIs.
-- **Problem Solving:** Analytical skills for quick issue identification and resolution.
-- **Leadership:** Guiding teams towards success through effective collaboration and communication.
+- **Full-Stack Development:** Proficiency in both front-end and back-end development, with expertise in technologies such as MongoDB, Express, ReactJS, Angular, NodeJS, and more.
+- **API Development:** Crafting robust and efficient APIs to facilitate seamless communication between different parts of an application.
+- **Problem Solving:** Strong analytical skills for quick issue identification and resolution, ensuring smooth functionality of software systems.
+- **Leadership:** Experience in guiding teams towards success through effective collaboration, communication, and project management.
 
 ## Let's Connect:
 
