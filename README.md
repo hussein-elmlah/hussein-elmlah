@@ -8,7 +8,7 @@ Welcome to my GitHub corner! 🚀 I'm Hussein Elmlah, an open-source application
   <a href="mailto:hussein.elmlah7@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>&emsp;
   <a href="https://www.linkedin.com/in/hussein-elmlah/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&emsp;
   <a href="https://wa.me/0201019747437"><img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>&emsp;
-  <a href="https://www.hackerrank.com/profile/husseinelmlah11"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
+<!--   <a href="https://www.hackerrank.com/profile/husseinelmlah11"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white" alt="hackerrank"/></a> -->
 </div>
 
 ### 🌐 About Me:
