@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Hussein Elmlah
+![image](https://github.com/hussein-elmlah/hussein-elmlah/assets/147069168/c0bd989a-c9aa-4918-a80d-904c7053012e)# 👋 Hello, I'm Hussein Elmlah
 
 Welcome to my GitHub corner! 🚀 I'm Hussein Elmlah, an open-source applications developer at [Information Technology Institute](https://iti.gov.eg/iti/home), where I am acquiring valuable technical and soft skills.
 
@@ -53,12 +53,16 @@ I thrive on exploring the vast realms of technology and finding innovative solut
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
   </a>
+  <a href="https://www.odoo.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/640/odoo_logo_rgb-512.png" alt="odoo" width="40" height="40"/>
+  </a>
   <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
   </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
   </a>
+  <a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
 </p>
 
 
@@ -101,6 +105,9 @@ I thrive on exploring the vast realms of technology and finding innovative solut
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
   </a>
 </p>
 
