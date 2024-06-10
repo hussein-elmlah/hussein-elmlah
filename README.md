@@ -1,4 +1,4 @@
-![image](https://github.com/hussein-elmlah/hussein-elmlah/assets/147069168/c0bd989a-c9aa-4918-a80d-904c7053012e)# 👋 Hello, I'm Hussein Elmlah
+# 👋 Hello, I'm Hussein Elmlah
 
 Welcome to my GitHub corner! 🚀 I'm Hussein Elmlah, an open-source applications developer at [Information Technology Institute](https://iti.gov.eg/iti/home), where I am acquiring valuable technical and soft skills.
 
