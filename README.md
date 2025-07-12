@@ -1,6 +1,8 @@
 # 👋 Hello, I'm Hussein Elmlah
 
-Welcome to my GitHub corner! 🚀 I'm Hussein Elmlah, an open-source applications developer at [Information Technology Institute](https://iti.gov.eg/iti/home), where I am acquiring valuable technical and soft skills.
+Welcome to my GitHub corner! 🚀 I'm a passionate Software Engineer and DevOps enthusiast with a strong focus on open-source technologies, cloud-native development, and automation.
+
+I enjoy designing and building scalable, secure, and resilient systems using tools like Docker, Kubernetes, GitOps, and CI/CD pipelines. I'm also experienced in full-stack development with technologies such as Node.js, React, MongoDB, and RESTful APIs.
 
 ## Connect with me:
 
